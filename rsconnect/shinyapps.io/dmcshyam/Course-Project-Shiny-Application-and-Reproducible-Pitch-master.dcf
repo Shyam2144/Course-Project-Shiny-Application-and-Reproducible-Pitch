@@ -1,0 +1,12 @@
+name: Course-Project-Shiny-Application-and-Reproducible-Pitch-master
+title: Course-Project-Shiny-Application-and-Reproducible-Pitch-master
+username: dmcshyam
+account: dmcshyam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11417839
+bundleId: 8339580
+url: https://dmcshyam.shinyapps.io/Course-Project-Shiny-Application-and-Reproducible-Pitch-master/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
